@@ -14,7 +14,7 @@
 
 ```
 $ sudo apt install -y curl
-$ curl -s https://raw.githubusercontent.com/c0x63c/install-docker-wsl2/main/install-docker.sh | /bin/bash
+$ curl -s https://raw.githubusercontent.com/c0x63c/wsl2-install-docker/main/install-docker.sh | /bin/bash
 ```
 
 ## Version
